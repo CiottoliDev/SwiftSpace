@@ -2,10 +2,10 @@
 Programming tuple spaces with Swift
 
 ## Requirements
-You need an IDE, "xCode" by Apple has been used in this manual.
+You need an IDE, "Xcode" by Apple has been used in this manual.
 
 ## How to import SwiftSpace
-To import the SwiftSpace into xCode, you can simply double click the "SwiftSpace.xcodeproj" file.
+To import the SwiftSpace into Xcode, you can simply double click the "SwiftSpace.xcodeproj" file.
 
 ## How it works
 * **TupleSpace creation**: 
@@ -52,7 +52,7 @@ Example:
 remote.put([5, true])
 ```
 ## Run test
-From xCode: Product->Scheme->SwiftSpaceTests
+From Xcode: Product->Scheme->SwiftSpaceTests
 
 Now open a test inside the SwiftSpaceTest folder, and click the diamond (near the name of the class) that indicates the run.
 
